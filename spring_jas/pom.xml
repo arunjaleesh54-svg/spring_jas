@@ -11,7 +11,7 @@
 	<groupId>com.tap</groupId>
 	<artifactId>spring_jas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>spring_jas</name>
 	<description>book thread application</description>
 	<url/>
