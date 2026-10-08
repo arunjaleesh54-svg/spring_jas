@@ -49,7 +49,7 @@ Swagger UI
 
 Swagger UI is used to test REST APIs.
 
-http://localhost:8080/swagger-ui/index.html
+
 
 How to Run
 
